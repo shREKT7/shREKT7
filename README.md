@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Uzair Teli 👋
 
-<!--
-**shREKT7/shREKT7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / Systems Engineer | Computer Science Student
 
-Here are some ideas to get you started:
+I build systems that combine **machine learning, networking, and scalable software engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **FlowSentinel** – Deep Packet Inspection engine written in C++ using PCAP  
+- **AI Gesture Recognition** – Real-time computer vision model  
+- **Community Resource Sharing Platform** – Full-stack web application  
+- **Developer Portfolio** – Modern interactive portfolio site
+
+## 🧠 Technical Interests
+- Machine Learning
+- Network Security
+- Systems Programming
+- Distributed Systems
+
+## 🛠 Tech Stack
+C++ • Python • JavaScript • TensorFlow • PyTorch • Flask • TCP/IP • PCAP • AWS
+
+## 🌐 Portfolio
+https://uzair-portfolio-rho.vercel.app
+
+## 📫 Connect With Me
+LinkedIn: https://linkedin.com/in/uzairteli
