@@ -24,3 +24,5 @@ https://uzair-portfolio-rho.vercel.app
 
 ## 📫 Connect With Me
 LinkedIn: https://linkedin.com/in/uzairteli
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shREKT7&show_icons=true&theme=tokyonight)
